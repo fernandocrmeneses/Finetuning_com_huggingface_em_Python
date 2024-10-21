@@ -16,7 +16,7 @@ if local:
 else:
     caminho_arquivo = r'/content/drive/MyDrive/Notebooks/'
 
-token_hugging_face = "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"
+token_hugging_face = "..."
 local_arquivo = rf"{caminho_arquivo}local"
 input_file = rf'{caminho_arquivo}trn.json'                  # Arquivo de entrada
 output_file = rf'{caminho_arquivo}dado_formatado.json'     # Arquivo de saída formatado
